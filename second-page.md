@@ -1,3 +1,7 @@
-# Example Second Page
+# Examples
 
-This is an example second page that will appear in the Docsify Sidebar.
+Here's a list of Jupyter Notebook examples to use Astraea:
+
+- [WIP]
+
+
