@@ -12,5 +12,5 @@ Its current functions including:
 - **Sequence**
   - Handling MMSeqs2 results
 
-
+To learn from future updates, you can visit our [Roadmap](https://trello.com/b/A644xeuX).
 
