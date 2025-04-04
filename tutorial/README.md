@@ -2,4 +2,5 @@
 
 ## Phylo
 
-- [Phylogenetic Tree](./phylogenetic_tree.md)
+- [Phylogenetic Tree](./tree.md)
+- [Multiple Sequence Alignment](./msa.md)
