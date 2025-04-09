@@ -43,3 +43,24 @@ Example output figure:
 
 ![msa_plot](image/msa_plot.png)
 
+
+## Logo Plot
+
+You can use the `plot_logo` function in `astraea.sequence.logoplot` to create a logo plot using an `ProteinAlignment` object:
+
+```python
+import astraea.sequence.logoplot
+
+# create logo plot
+fig, ax = plt.subplots(figsize=(8, 2))
+astraea.sequence.logoplot.plot_logo(align, ax)
+
+plt.savefig("logoplot.png", bbox_inches="tight", dpi=300)
+plt.show()
+```
+
+Example output figure:
+
+![logoplot](image/logoplot.png)
+
+
