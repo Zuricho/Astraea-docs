@@ -2,3 +2,4 @@
 - [Tutorial](./tutorial/README.md)
   - [Phylogenetic tree](./tutorial/tree.md)
   - [Multiple Sequence Alignment](./tutorial/msa.md)
+  - [Phylogenetic Tree Comparing Metrics](./tutorial/tree_metric.md)
